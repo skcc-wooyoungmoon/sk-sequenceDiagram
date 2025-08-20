@@ -1,0 +1,5 @@
+{
+  "name": "Sequence Diagram Generator",
+  "description": "An application that generates sequence diagrams from user requirements using AI. It allows users to input requirements, select prompt templates, and generate diagrams in Mermaid syntax, which can be viewed, edited, and exported in various formats.",
+  "requestFramePermissions": []
+}

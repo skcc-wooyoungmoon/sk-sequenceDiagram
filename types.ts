@@ -1,0 +1,12 @@
+
+export enum PromptTemplate {
+  SIMPLE = 'SIMPLE',
+  SYSTEMATIC = 'SYSTEMATIC',
+  SHOPPING_EXAMPLE = 'SHOPPING_EXAMPLE'
+}
+
+export enum OutputTab {
+  DIAGRAM = 'DIAGRAM',
+  MERMAID_CODE = 'MERMAID_CODE',
+  ANALYSIS = 'ANALYSIS'
+}
